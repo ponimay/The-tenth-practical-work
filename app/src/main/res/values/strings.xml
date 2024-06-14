@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bloknot</string>
+    <string name="vvod_zametki">Напишите заметку</string>
+    <string name="another_zam">Следующая заметка</string>
+    <string name="last_page">Последняя страница</string>
+    <string name="Text3">\n</string>
+</resources>
